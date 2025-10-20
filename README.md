@@ -1,2 +1,2 @@
-# Starting-Project <br\>
-My first git repository as beginner
+# Starting-Project
+My first git repository as beginner. <br> Lets start the project.
